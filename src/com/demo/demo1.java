@@ -42,6 +42,8 @@ int ans;
 				break;
 			case 6: 
 					//abi.quit();
+					//changed
+					System.exit(0);
 					System.out.println("working");
 				break;
 			default:
