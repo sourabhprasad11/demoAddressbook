@@ -42,7 +42,7 @@ int ans;
 				break;
 			case 6: 
 					//abi.quit();
-					System.out.println("working");
+					System.out.print("working");
 				break;
 			default:
 					System.out.println("You have entered the wrong number...Terminating the application");
